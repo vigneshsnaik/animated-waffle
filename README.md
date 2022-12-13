@@ -1,0 +1,2 @@
+# animated-waffle
+my zsh
